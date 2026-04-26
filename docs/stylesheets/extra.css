@@ -19,7 +19,17 @@ td {
   font-weight: 400;
 }
 
-/* Highlight YES values */
+/* Dark mode table adjustments. */
+[data-md-color-scheme="slate"] tbody tr:nth-child(odd) {
+  background-color: #2b2b2b;
+}
+
+[data-md-color-scheme="slate"] td,
+[data-md-color-scheme="slate"] th {
+  color: #e0e0e0;
+}
+
+/* Highlight YES values. */
 .yes {
   background-color: #d9f2d9;
   font-weight: 600;
@@ -27,7 +37,13 @@ td {
   border-radius: 4px;
 }
 
+/* Highlight YES values in dark mode. */
+[data-md-color-scheme="slate"] .yes {
+  background-color: #2e7d32;
+  color: #ffffff;
+}
+
 /* Replace logo in dark mode. */
 [data-md-color-scheme="slate"] .md-header__button.md-logo img {
-  content: url("/images/libraries_yu_DIGITAL_hor_RGB_REV.png");
+  content: url("../images/libraries_yu_DIGITAL_hor_RGB_REV.png");
 }
