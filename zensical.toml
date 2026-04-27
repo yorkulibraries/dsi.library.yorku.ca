@@ -53,6 +53,12 @@ nav = [
      "platforms/yudl.md",
      "platforms/web-archives.md"
      ]
+   },
+   { "Reconciliation" = [
+     "reconciliation/yudl.md",
+     "reconciliation/lc.md",
+     "reconciliation/geonames.md"
+     ]
    }
  ]
 
