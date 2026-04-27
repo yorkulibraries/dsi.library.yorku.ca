@@ -5,13 +5,13 @@ icon: simple/drupal
 
 # Using the YUDL Reconciliation Service with OpenRefine
 
-This guide walks you through reconciling data in OpenRefine against the YUDL taxonomy authorities. Matching strings in your data to controlled vocabulary terms and retrieving their Term IDs (TIDs).
+This guide walks you through reconciling data in [OpenRefine](https://openrefine.org/) against the YUDL taxonomy authorities, matching strings in your project to controlled vocabulary terms and retrieving their Term IDs (TIDs).
 
 ---
 
 ## Prerequisites
 
-- [OpenRefine](https://openrefine.org/) installed and running
+- OpenRefine installed and running
 - A project open in OpenRefine with a column you want to reconcile
 
 ---
@@ -40,24 +40,24 @@ The service will appear in the list as **YUDL Taxonomy Authorities**.
 
 You will see a list of available vocabulary types:
 
-* Person
-* Subject
-* Corporate Body
-* City
-* City Section
-* Country
-* County
-* Family
-* Genre
-* Geographic Location
-* Language
-* Physical Form
-* Province
-* Region
-* Resource Types
-* Rights
-* Tags
-* Temporal Subjects
+* [Person](https://digital.library.yorku.ca/search/authorities/person)
+* [Subject](https://digital.library.yorku.ca/search/authorities/subject)
+* [Corporate Body](https://digital.library.yorku.ca/search/authorities/corporate-body)
+* [City](https://digital.library.yorku.ca/search/authorities/city)
+* [City Section](https://digital.library.yorku.ca/search/authorities/city-section)
+* [Country](https://digital.library.yorku.ca/search/authorities/country)
+* [County](https://digital.library.yorku.ca/search/authorities/county)
+* [Family](https://digital.library.yorku.ca/search/authorities/family)
+* [Genre](https://digital.library.yorku.ca/search/authorities/genre)
+* [Geographic Subject](https://digital.library.yorku.ca/search/authorities/geographic-subject)
+* [Language](https://digital.library.yorku.ca/search/authorities/language)
+* [Physical Form](https://digital.library.yorku.ca/search/authorities/physical-form)
+* [Province](https://digital.library.yorku.ca/search/authorities/province)
+* [Region](https://digital.library.yorku.ca/search/authorities/region)
+* [Resource Type](https://digital.library.yorku.ca/search/authorities/resource-type)
+* [Rights](https://digital.library.yorku.ca/search/authorities/rights)
+* [Tags (keywords)](https://digital.library.yorku.ca/search/authorities/keywords)
+* [Temporal Subjects](https://digital.library.yorku.ca/search/authorities/temporal-subject)
 
 Select the taxonomy that matches the content of your column. For example, if your column contains subject headings, select **Subject**.
 
