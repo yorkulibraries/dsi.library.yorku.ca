@@ -28,7 +28,7 @@ This guide walks you through reconciling data in [OpenRefine](https://openrefine
 1. Click **Add Standard Service** in the bottom left corner of the dialog
 2. Enter the following URL:
    ```
-   http://lc.oceanmeat.tech
+   https://reconcile.library.yorku.ca/loc/
    ```
 3. Click **Add Service**
 

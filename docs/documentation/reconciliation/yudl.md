@@ -5,7 +5,7 @@ icon: simple/drupal
 
 # Using the YUDL Reconciliation Service with OpenRefine
 
-This guide walks you through reconciling data in [OpenRefine](https://openrefine.org/) against the YUDL taxonomy authorities, matching strings in your project to controlled vocabulary terms and retrieving their Term IDs (TIDs).
+This guide walks you through reconciling data in [OpenRefine](https://openrefine.org/) against YUDL authorities, matching strings in your project to controlled vocabulary terms and retrieving their Term IDs (TIDs).
 
 ---
 
