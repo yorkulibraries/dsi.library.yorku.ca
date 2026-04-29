@@ -35,7 +35,7 @@ The Department oversees the existing platforms, and the selection and implementa
 * democratizing access to media creation knowledges and infrastructure, and
 * supporting openness, digital pedagogy and engagement with new audiences.
 
-## Platforms
+## Platforms and Services
 
 !!! info "Access limitations"
     Some platforms require Passport York credentials or VPN access.
@@ -60,6 +60,13 @@ The following platforms are supported, maintained, and recommended for use by DS
 * [Archivematica](http://archivematica.library.yorku.ca/)
 * [Matomo](https://matomo.library.yorku.ca)
 * [Redmine](https://redmine.library.yorku.ca)
+* Springshare
+
+### Services
+
+* [Making & Media Creation Labs](https://www.library.yorku.ca/ds/home/media-creation-lab/)
+* Digital exhibit guidance
+* [Grant support services](https://www.library.yorku.ca/web/research-learn/library-support-for-grant-funded-research-projects/)
 
 ### Web Archiving
 

@@ -4,7 +4,10 @@ icon: lucide/book-open-check
 
 # Digital Scholarship Infrastructure
 
+!!! quote "“Digital infrastructure is not robust like a brick. It is not inherently hard. It is robust like a tree: it lasts because it grows, adapts, and repairs. It may also die. We have to keep it alive. It demands care.” – Mathieu Jacomy"
+
 Digital Scholarship Infrastructure (DSI) is responsible for a range of digital scholarship activities at YUL including digital preservation and knowledge mobilization, web archiving, media creation, critical making, and digital humanities and social sciences support. DSI leads colleagues to envision, plan and enable sustainable digital research and scholarship activities that heighten the impact of students, faculty members and library staff at York University.
+
 
 ## Mission  
 
