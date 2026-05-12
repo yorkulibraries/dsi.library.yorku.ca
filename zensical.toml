@@ -53,18 +53,9 @@ nav = [
     ]
   },
   { "Documentation" = [
-      { "OJS for YDJ" = [
-          "documentation/ojs/introduction.md",
-          "documentation/ojs/ojs-site.md",
-          "documentation/ojs/submissions.md",
-          "documentation/ojs/issues.md",
-          "documentation/ojs/dois.md",
-          "documentation/ojs/alt-pub-models.md",
-          "documentation/ojs/accessibility.md",
-          "documentation/ojs/metrics.md",
-          "documentation/ojs/orcid.md",
-          "documentation/ojs/layout-design.md",
-          "documentation/ojs/glossary.md"
+      { "Platforms" = [
+          "documentation/ojs.md",
+          "documentation/scalar.md"
         ]
       },
       { "Reconciliation" = [
@@ -72,6 +63,18 @@ nav = [
           "documentation/reconciliation/lc.md",
           "documentation/reconciliation/geonames.md"
         ]
+      }
+    ]
+  },
+  { "Teaching & Learning" = [
+      { "Support for Instructors" = [
+          "teaching-learning/podcasting.md",
+          "teaching-learning/virtual-reality.md"
+        ]
+      },
+      { "Course Support" = [
+          "teaching-learning/audacity.md",
+       ]
       }
     ]
   }
