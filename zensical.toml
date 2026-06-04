@@ -47,40 +47,37 @@ Copyright &copy; 2026 Digital Scholarship Infrastructure Team
 nav = [
   { "Digital Scholarship Infrastructure" = [
       "index.md",
-      "how.md",
+      "how-dsi-operates.md",
       "platform-details.md",
-      "wgw.md"
+      "what-goes-where.md"
     ]
   },
-  { "Documentation" = [
-      { "Platforms" = [
-          "documentation/ojs.md",
-          "documentation/scalar.md"
-        ]
-      },
-      { "Reconciliation" = [
-          "documentation/reconciliation/yudl.md",
-          "documentation/reconciliation/lc.md",
-          "documentation/reconciliation/geonames.md"
-        ]
-      }
-    ]
+  { "Metadata Reconciliation" = [
+      "metadata-reconciliation/yudl.md",
+      "metadata-reconciliation/lc.md",
+      "metadata-reconciliation/geonames.md"
+      ]
   },
-  { "Teaching & Learning" = [
-      { "Support for Instructors" = [
-          "teaching-learning/podcasting.md",
-          "teaching-learning/virtual-reality.md"
-        ]
-      },
-      { "Course Support" = [
-          "teaching-learning/audacity.md",
-       ]
-      }
+
+  { "Scalar" = [
+      "scalar/policies.md",
+      "scalar/resources.md"
+      ]
+  },
+  { "YDJ" = [
+      "ydj/ydj-services-for-journals.md",
+      "ydj/ojs-for-ydj.md",
+      "ydj/getting-on-board-a-guide-for-new-editors.md",
+      "ydj/how-to-guides.md",
+      "ydj/course-journals.md",
+      "ydj/indexing.md",
+      "ydj/metrics-and-impact.md",
+      "ydj/long-term-preservation.md"
     ]
   }
 ]
 
-# With the "extra_css" option you can add your own CSS styling to customize
+# services-for-journals.mdWith the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
 # CSS files.
 #
