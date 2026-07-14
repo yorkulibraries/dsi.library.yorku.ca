@@ -48,13 +48,13 @@ Under _Editor Dashboard_, you will see several filters for different stages in t
 Because _Editor Dashboard_ starts expanded, you may not immediately notice the _Settings_ section in the left side bar. Expand that section to find the familiar _Journal, _Website_, _Workflow_, _Distribution_, and _Users & Roles_ pages.
 
 
-![You can access the Journal, Website, Workflow, Distribution, and Users & Roles pages by expanding the Settings section of the navigation menu in the dashboard.](what-to-expect-settings.png "You can access the Journal, Website, Workflow, Distribution, and Users & Roles pages by expanding the Settings section of the navigation menu in the dashboard.")
+![You can access the Journal, Website, Workflow, Distribution, and Users & Roles pages by expanding the Settings section of the navigation menu in the dashboard.](/images/what-to-expect-settings.png "You can access the Journal, Website, Workflow, Distribution, and Users & Roles pages by expanding the Settings section of the navigation menu in the dashboard.")
 
 #### Submission information pages
 
 The layout of the submission information page (what you see when you click View on a submission) has also changed. Instead of two levels of tabs across the top of the main work area, the Workflow and Publication pages now appear as sections in the left sidebar, and all the familiar tabs from those pages appear underneath them.
 
-![The new submission information move the Workflow and Publication tabs - and their sub-tabs - to a navigation menu on the left.](what-to-expect-submission-info.png "The new submission information move the Workflow and Publication tabs - and their sub-tabs - to a navigation menu on the left.")
+![The new submission information move the Workflow and Publication tabs - and their sub-tabs - to a navigation menu on the left.](/images/what-to-expect-submission-info.png "The new submission information move the Workflow and Publication tabs - and their sub-tabs - to a navigation menu on the left.")
 
 ### Redesigned submission wizard (new in 3.4)
 
