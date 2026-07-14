@@ -1,6 +1,6 @@
 # What to expect in OJS 3.5
 
-Tomasz Mrozewski | Last updated: July 13
+Tomasz Mrozewski | Last updated: July 13, 2026
 
 This document is designed to help you navigate changes to your journal's OJS site that come with the upgrade to OJS 3.5. Most YDJ journals are upgrading from OJS 3.3 so this document also covers some changes that came with OJS 3.4.
 
