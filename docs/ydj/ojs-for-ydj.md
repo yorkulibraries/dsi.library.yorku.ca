@@ -636,7 +636,7 @@ If the data set is hosted in an external repository such as [York University Dat
 
 Once published, a link to the data set will appear on the submission’s metadata page (see Figure 2).
 
-![Article metadata page showing a link to the external data set](/images/data-set-galley-1.jpg)
+![Article metadata page showing a link to the external data set](/images/data-set-galley-2.jpg)
 
 Figure 2: Once published, a link to the external data set will appear next to the link to the Article Text galley.
 
@@ -1276,7 +1276,7 @@ One of the most important things you can do to make your article galleys accessi
 
 In Word, you add these title and heading tags by using styles. The easiest way to access styles is through the Styles pane in the Home toolbar (Figure 1).
 
-![The Styles pane in Microsfot Word](Word-Styles-pane-marked-1.jpg)
+![The Styles pane in Microsoft Word](/images/Word-Styles-pane-marked-1.jpg)
 
 Figure 1: the Styles pane in Microsoft Word.
 
