@@ -65,14 +65,8 @@ nav = [
       ]
   },
   { "YDJ" = [
-      "ydj/ydj-services-for-journals.md",
-      "ydj/ojs-for-ydj.md",
-      "ydj/getting-on-board-a-guide-for-new-editors.md",
-      "ydj/how-to-guides.md",
-      "ydj/course-journals.md",
-      "ydj/indexing.md",
-      "ydj/metrics-and-impact.md",
-      "ydj/long-term-preservation.md"
+      "ydj/what-to-expect-in-ojs-35.md",
+      "ydj/ojs-for-ydj.md"
     ]
   }
 ]
