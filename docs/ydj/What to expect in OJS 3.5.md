@@ -39,29 +39,20 @@ You'll see something like this when you first open OJS 3.5:
 
 ![The revised dashboard in OJS 3.5, showing the new navigation structure](/images/what-to-expect-editor-dashboard.png "The revised dashboard in OJS 3.5, showing the new navigation structure")
 
-
-
 Under _Editor Dashboard_, you will see several filters for different stages in the editorial workflow and submissions' statuses within them. These replace the 4 queues you would have seen in earlier versions of OJS and should make it easier to get an overview of where things stand with all your journals' submissions.
 
 #### Settings
 
 Because _Editor Dashboard_ starts expanded, you may not immediately notice the _Settings_ section in the left side bar. Expand that section to find the familiar _Journal, _Website_, _Workflow_, _Distribution_, and _Users & Roles_ pages.
 
-<figure markdown="span">
-  ![Image title](URL GOES HERE){ width="300" }
-  <figcaption>You can access the Journal, Website, Workflow, Distribution, and Users & Roles pages by expanding the Settings section of the navigation menu in the dashboard.</figcaption>
-</figure>
 
+![You can access the Journal, Website, Workflow, Distribution, and Users & Roles pages by expanding the Settings section of the navigation menu in the dashboard.](what-to-expect-settings.png "You can access the Journal, Website, Workflow, Distribution, and Users & Roles pages by expanding the Settings section of the navigation menu in the dashboard.")
 
 #### Submission information pages
 
 The layout of the submission information page (what you see when you click View on a submission) has also changed. Instead of two levels of tabs across the top of the main work area, the Workflow and Publication pages now appear as sections in the left sidebar, and all the familiar tabs from those pages appear underneath them.
 
-<figure markdown="span">
-  ![Image title](URL GOES HERE){ width="300" }
-  <figcaption>Image caption</figcaption>
-</figure>
-
+![The new submission information move the Workflow and Publication tabs - and their sub-tabs - to a navigation menu on the left.](what-to-expect-submission-info.png "The new submission information move the Workflow and Publication tabs - and their sub-tabs - to a navigation menu on the left.")
 
 ### Redesigned submission wizard (new in 3.4)
 
