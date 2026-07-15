@@ -59,11 +59,11 @@ nav = [
       ]
   },
 
-  { "Scalar" = [
-      "scalar/policies.md",
-      "scalar/resources.md"
-      ]
-  },
+#  { "Scalar" = [
+#      "scalar/policies.md",
+#      "scalar/resources.md"
+#      ]
+#  },
   { "YDJ" = [
       "ydj/what-to-expect-in-ojs-35.md",
       "ydj/ojs-for-ydj.md"
