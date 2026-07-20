@@ -4,8 +4,10 @@
 
 !!! info
 
-    **Last updated:** July 8, 2026
-    This document has been ported from its [original site](https://pressbooks.library.yorku.ca/ojsforydj/) using YUL's instance of Pressbooks with minimal changes beyond formatting for the new platform. Most information here covers OJS 3.3 and 3.4, and is gradually being updated to reflect changes in OJS 3.5.
+	This document has been ported from its [original site](https://pressbooks.library.yorku.ca/ojsforydj/) using YUL's instance of Pressbooks with minimal changes beyond formatting for the new platform. Most information here covers OJS 3.3 and 3.4, and is gradually being updated to reflect changes in OJS 3.5.
+	
+	Individual sections are dated as upated.
+	\- July 8, 2026
 
 This documentation has two purposes: 
 
@@ -601,6 +603,56 @@ To resolve this error, you must assign an Editor to the submission and reapprove
     5.  Click **Record Editorial Decision**. The page should reload at the Copyediting sub-tab.
 
 You should now be able to republish or publish a new version of the submission.
+
+### Cleaning up unwanted submissions in the editorial queues
+
+!!! info
+
+    **Last updated:*** July 16, 2026 for OJS 3.5
+	
+You may end up with several kinds of unwanted submissions:
+* incomplete submissions abandoned by the authors,
+* duplicate submissions created in error,
+* submissions created for purposes of testing, training, or troubleshooting
+
+The method of cleaning these up depends on whether the submissions are [complete](#removing-completed-submissions) (have gone through the entire Submission Wizard and are awaiting editorial review) or are [incomplete](#deleting-incomplete-submissions).
+
+#### Declining completed submissions
+
+If a submission is complete, you must decline it. You must do this individually.
+
+This is the case for submissions at any stage of the Workflow, inlcuding those that have completed Production (this will be the case for submissions made through QuickSubmit). The process will vary slightly, depending which Workflow stage it has reach and if it has been scheduled for publication.
+
+In summary, you must revert any editorial decisions until you reach either the Submission or Review stage of the workflow, and then decline the submission as an editorial decision.
+
+To decline a completed submission:
+
+1. Find the submission in your editorial queue and click **View**
+2. If the submission information opened to *Publication: Title & Abstract* (or any other tab whose title starts with *Publication*), click the **Production** tab in the left-hand menu
+	a. if it did not, skip to step ###
+3. If you are now at *Workflow: Production*, click **Back to Copyediting**
+	a. if you are not, or if the *Back to Copyediting* button does not appear, skip to step ###
+4. On the resulting page, click **Record Decision** and then click past the confirmation
+5. If you are now at *Workflow: Copyediting*, click **Cancel Copyediting**
+	a. if you are not, or if the *Cancel Copyediting* button does not appear, skip to step ###
+6. On the resulting page, click **Record Decision** and then click past the confirmation
+7. If you are at *Workflow: Submission* or *Workflow: Review*, click **Decline Submission**
+8. On the resulting page, click **Record Decision**
+9. If prompted, you may opt to send the email notification to the author or skip it.
+
+Upon completing this process, the submission will move to the *Declined* queue.
+
+#### Deleting incomplete submissions
+
+If a submission is incomplete, you may delete it outright. This is process can be done in bulk to multiple submissions simultaneously.
+
+To delete incomplete submissions:
+1. Go to the *All in Submission Stage* queue
+2. Click the icon with three dots next to the *Filters* button
+3. The **Delete Incomplete Submissions** button will appear. Click it
+4. Follow any resulting prompts as appropriate.
+
+Deleted incomplete submissions will be purged from the system.
 
 ### Adding data sets to articles
 
