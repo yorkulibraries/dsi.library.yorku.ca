@@ -67,7 +67,15 @@ nav = [
   { "YDJ" = [
       "ydj/what-to-expect-in-ojs-35.md",
       { "OJS for YDJ" = [
-          "ydj/ojs-for-ydj.md"]}
+          "ydj/ojs-for-ydj.md",
+          "ydj/ojs-site.md",
+          "ydj/submissions.md",
+          "ydj/issues.md",
+          "ydj/alternative-publication-models.md",
+          "ydj/dois.md",
+          "ydj/metrics.md",
+          "ydj/accessibility.md",
+          "ydj/configuring-subscription-settings.md"]}
     ]
   }
 ]
