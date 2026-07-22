@@ -66,12 +66,13 @@ nav = [
 #  },
   { "YDJ" = [
       "ydj/what-to-expect-in-ojs-35.md",
-      "ydj/ojs-for-ydj.md"
+      { "OJS for YDJ" = [
+          "ydj/ojs-for-ydj.md"]}
     ]
   }
 ]
 
-# services-for-journals.mdWith the "extra_css" option you can add your own CSS styling to customize
+# With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
 # CSS files.
 #
