@@ -8,7 +8,7 @@ This section discusses the various metrics available to you as a YDJ journal.
 
     **Last updated:** March 3, 2022 for OJS 3.3.0.8
 
-YDJ journals have access to altmetric data through [YUL’s subscription to Altmetric Explorer](https://www.library.yorku.ca/web/research-metrics/altmetric-explorer/). York-affiliated editors can access [Altmetric Explorer directly](https://www.altmetric.com/explorer/login). Editors without a York University affiliation can request reports for their journal from the [Digital Publishing Librarian](mailto:tmrozews@yorku.ca).
+YDJ journals have access to altmetric data through [YUL’s subscription to Altmetric Explorer](https://www.library.yorku.ca/web/research-metrics/altmetric-explorer/). York-affiliated editors can access [Altmetric Explorer directly](https://www.altmetric.com/explorer/login). Editors without a York University affiliation can request reports for their journal by [contacting YDJ](ydj-contact.md).
 
 In order to get altmetric data for your journal in Altmetric Explorer, your journal must:
 
