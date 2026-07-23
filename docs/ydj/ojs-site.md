@@ -205,7 +205,7 @@ YDJ prefers that participating journals use the Default Theme for two reasons:
 1.  The Default Theme has been audited for accessibility and simplifies journals’ requirement to comply with the _Accessibility for Ontarians with Disabilities Act_ (AODA), whereas other themes may present accessibility issues, and
 2.  Themes other than Default are not always updated with the core OJS software and may not render or function properly when YDJ upgrades your journal to a new version of the software.
 
-If you wish to use or try out different themes for your journal, please contact the Digital Publishing Librarian. Themes are implemented as [plugins](#managing-plugins) and you will not be able to implement them without assistance. YDJ cannot customize themes or fix any problems with non-Default themes that may arise.
+If you wish to use or try out different themes for your journal, please [contact YDJ](ydj-contact.md). Themes are implemented as [plugins](#managing-plugins) and you will not be able to implement them without assistance. YDJ cannot customize themes or fix any problems with non-Default themes that may arise.
 
 You can read more about [Theme settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website#theme) in Learning OJS 3.3 and about [Theme Features and Design Elements](https://docs.pkp.sfu.ca/designing-your-journal/en/theme-features-design-elements) in Designing Your Journal. If you have access to development expertise, you can read about creating or modifying themes in the [PKP Theming Guide](https://docs.pkp.sfu.ca/pkp-theming-guide/en/).
 
@@ -223,7 +223,7 @@ You can read more about [Navigation settings](https://docs.pkp.sfu.ca/learning-o
 
 !!! warning
 
-    If you create a new page through the navigation menu, test your intended URL path first_ to ensure that you don’t create a site-breaking URL conflict.
+    Creating a page with the same URL as an existing page in OJS may cause a site-breaking URL conflict. Before creating a new page, test your intended URL by inputting it into your browser to see if a page with that URL already exists on your site.
 
 ### Sidebar blocks
 
@@ -247,7 +247,7 @@ You can create custom blocks to appear in the right sidebar by following these s
 
 1.  In the back end, go to **Website > Plugins**.
 2.  On the Installed Plugins screen, you should see plugin called **Custom Block Manager** in the Generic Plugins section.
-    1.  If you do not see the Custom Block Manager in that list, contact Tomasz to have it installed before proceeding.
+    1.  If you do not see the Custom Block Manager in that list, [contact YDJ](ydj-contact.md) to have it installed before proceeding.
 3.  Activate the Custom Block Manager by clicking the checkbox beside the plugin description.
 4.  Once activated, click the blue triangle next to the plugin name to see the plugin options.
 5.  Click **Manage Custom Blocks**.
@@ -277,13 +277,13 @@ Most of the built-in plugins for OJS are updated when the core OJS software pack
 
 ### Installing and updating plugins
 
-The **Plugin Gallery** lists optional plugins that you can install on your system and will also display whether updates are available. Only the OJS administrator can install and update plugins – you will not be able to do this for your own journal, even if you have the Journal Manager user role. If you wish to install or upgrade a plugin, please contact your Digital Publishing Librarian.
+The **Plugin Gallery** lists optional plugins that you can install on your system and will also display whether updates are available. Only the OJS administrator can install and update plugins – you will not be able to do this for your own journal, even if you have the Journal Manager user role. If you wish to install or upgrade a plugin, please [contact YDJ](ydj-contact.md).
 
-YDJ has not yet been able to automate the plugin update process for our journals, although we are currently working on this. Therefore, you may sometimes discover that certain plugins (such as [QuickSubmit](submissions#using-the-quicksubmit-plugin) are not available due to an update being required. If this happens, please contact your Digital Publishing Librarian.
+YDJ has not yet been able to automate the plugin update process for our journals, although we are currently working on this. Therefore, you may sometimes discover that certain plugins (such as [QuickSubmit](submissions#using-the-quicksubmit-plugin) are not available due to an update being required. If this happens, please [contact YDJ](ydj-contact.md).
 
 ### Third-party plugins
 
-If you discover third-party plugins you wish to use, contact your Digital Publishing Librarian to discuss installing them. If YDJ has no immediately concerns about security or computing resources, we should be able to install them for you.
+If you discover third-party plugins you wish to use, [contact YDJ](ydj-contact.md) to discuss installing them. If YDJ has no immediately concerns about security or computing resources, we should be able to install them for you.
 
 YDJ cannot support the use or maintenance of third-party plugins. In other words: if the plugin doesn’t work with the current version of OJS, or if the plugin doesn’t work as expected, or if you can’t figure out to use the plugin, we will be unable to support you. Additionally, if YDJ discovers that there is a major security concern with the plugin, we may have to unilaterally uninstall it.
 
@@ -310,7 +310,7 @@ You should know that analytics packages only provide statistics as of the date o
 
 #### Matomo
 
-YUL has implemented a locally-hosted instance of [Matomo](https://matomo.org/) for all journals as an alternative to Google Analytics. As of late 2023, Matomo has been configured for all YDJ publications. YDJ does not currently have standardized reporting procedures: if you would like to request stats from Matomo, please contact the Digital Publishing Librarian.
+YUL has implemented a locally-hosted instance of [Matomo](https://matomo.org/) for all journals as an alternative to Google Analytics. As of late 2023, Matomo has been configured for all YDJ publications. YDJ does not currently have standardized reporting procedures: if you would like to request stats from Matomo, please [contact YDJ](ydj-contact.md).
 
 #### Google Analytics
 

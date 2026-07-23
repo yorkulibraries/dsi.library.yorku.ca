@@ -75,7 +75,8 @@ nav = [
           "ydj/dois.md",
           "ydj/metrics.md",
           "ydj/accessibility.md",
-          "ydj/configuring-subscription-settings.md"]}
+          "ydj/configuring-subscription-settings.md"]},
+      "ydj/ydj-contact.md"
     ]
   }
 ]

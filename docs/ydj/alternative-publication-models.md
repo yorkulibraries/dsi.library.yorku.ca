@@ -28,9 +28,9 @@ Online first and rolling publication both introduce two small complications for 
 
     **Last updated:** February 21, 2025 for OJS 3.3 and 3.4
 
-**Important update:** the [Forthcoming plugin](https://github.com/ajnyga/forthcoming) has been updated for OJS 3.3 and 3.4 and is a much simpler solution than the instructions provided below. These instructions are retained for reference.
+   **Important update:** the [Forthcoming plugin](https://github.com/ajnyga/forthcoming) has been updated for OJS 3.3 and 3.4 and is a much simpler solution than the instructions provided below. These instructions are retained for reference.
 
-Please contact the Digital Publishing Librarian to have the plugin installed and configured.
+   Please [contact YDJ](ydj-contact.md) to have the plugin installed and configured.
 
 OJS does not have a dedicated mechanism for publishing "online first"/"forthcoming" articles but it’s possible to cheat the issue publication process to mimic the feature. The following steps explain how to publish submissions under the label "Online First" in advance of a regular, numbered issue.
 

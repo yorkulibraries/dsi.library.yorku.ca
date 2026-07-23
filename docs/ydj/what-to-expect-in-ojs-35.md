@@ -84,7 +84,7 @@ You cannot add a Role directly to an account (e.g., to add the Journal Editor ro
 
 This may complicate things if you want to change the Role of a User who only has one (e.g., you wish to remove the Journal Editor Role from an account with no other Role): you must invite the User to a new Role.
 
-If the User does not accept the invitation, you can either Disable the account or Remove it. In cases where you do not want to do this, you can contact YDJ for assistance.
+If the User does not accept the invitation, you can either Disable the account or Remove it. In cases where you do not want to do this, you can [contact YDJ](ydj-contact.md) for assistance.
 
 ### Highlights
 

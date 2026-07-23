@@ -16,7 +16,7 @@ You should see [PKP’s guide to OJS](https://docs.pkp.sfu.ca/) to learn more ab
 
 Unless otherwise noted, this guide refers to OJS 3. Where possible, this document notes the version of OJS on which each section is based. It is gradually being updated for OJS 3.5 as YDJ journals upgrade.
 
-This guide has been created by Digital Publishing Librarian [Tomasz Mrozewski](mailto:tmrozews@yorku.ca) at York University Libraries. Any errors are the author’s own. 
+This guide has been created by Digital Publishing Librarian Tomasz Mrozewski. Any errors are the author’s own. Please [contact YDJ](ydj-contact.md) if you have any questions or concerns about this documentation.
 
 ## Contents
 - [The OJS site](ojs-site)
