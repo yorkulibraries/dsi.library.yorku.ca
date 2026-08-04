@@ -8,7 +8,7 @@
 
     This section describes DOI management and YDJ configuration in OJS 3.3. DOI management changed significantly as 3.4. the DOI creation mechanism was overhauled in OJS 3.4 and the workflow described on this page does not apply. Please see [the section on DOIs](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/other-tools) from Learning OJS 3.5 for Journal Managers.
 
-[Digital Object Identifiers](https://www.doi.org/) (DOIs) may be available for your journal. Please contact your Digital Publishing Librarian to find out if your journal is eligible.
+[Digital Object Identifiers](https://www.doi.org/) (DOIs) may be available for your journal. Please [contact YDJ](ydj-contact.md) to find out if your journal is eligible.
 
 YDJ registers DOIs through York University Libraries’ [Crossref](https://www.Crossref.org/) membership. Our membership specifies that we are obligated to publish [reference lists](https://www.Crossref.org/services/reference-linking/) for submissions which receive DOIs. This section includes a chapter on [how to upload and publish reference lists](dois#uploading-and-publishing-reference-lists).
 

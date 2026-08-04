@@ -33,7 +33,7 @@ All publication in OJS happens at the _issue_ level, so using QuickSubmit alone 
 
 ### Finding the QuickSubmit plugin
 
-Once logged in, click **Tools** in the left-hand sidebar. This brings you to the Import/Expert tab of the Tools page. You should see **QuickSubmit Plugin** in the list of tools – if you do not, contact the Digital Publishing Librarian to have the plugin upgraded.
+Once logged in, click **Tools** in the left-hand sidebar. This brings you to the Import/Expert tab of the Tools page. You should see **QuickSubmit Plugin** in the list of tools – if you do not, contact [contact YDJ](ydj-contact.md) to have the plugin upgraded.
 
 ### Uploading submissions with the QuickSubmit plugin
 
@@ -80,7 +80,7 @@ Once you find the submission in the proper queue, you can edit it. To edit the s
 2.  Click the **Publication** tab to edit the submission metadata, [upload or change the galley file](#adding-and-replacing-galleys), [change the section](#changing-the-section-of-a-submission), or assign it to an issue
 3.  Click **Save** at the bottom of the screen after making any changes.
 
-At the time of the latest update to this page, dates entered in QuickSubmit do not save when the submission was published: regardless of the date entered in step 8, it will be changed to the date the issue is published when you publish it. If you need to backdate submissions, please contact the Digital Publishing Librarian.
+At the time of the latest update to this page, dates entered in QuickSubmit do not save when the submission was published: regardless of the date entered in step 8, it will be changed to the date the issue is published when you publish it. If you need to backdate submissions, please [contact YDJ](ydj-contact.md).
 
 ## Adding and replacing galleys
 
