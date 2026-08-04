@@ -2,7 +2,7 @@
 
 !!! info
 
-	**Last updated**: July 13, 2026
+	**Last updated**: July 28, 2026
 
 This document is designed to help you navigate changes to your journal's OJS site that come with the upgrade to OJS 3.5. Most YDJ journals are upgrading from OJS 3.3 so this document also covers some changes that came with OJS 3.4.
 
@@ -126,7 +126,11 @@ Instead of using the default configuration for the Editorial Masthead in OJS 3.5
 
 ### Configuration of Editorial Team page in 3.5
 
-YDJ is currently finalizing details of how it will configure the Editorial Team page in OJS 3.5. We will update this page as soon as we are able.
+YDJ has recreated the Editorial Team page from previous versions of OJS, which will appear under the About menu on the journal's front end. The Editorial Masthead and Editorial History pages that OJS 3.5 generates by default will _not_ appear on your journal's site.
+
+You can continue to edit this page via Journal settings > Masthead. The data entry field is now called Editorial History instead of Editorial Team, but otherwise functions identically.
+
+If your journal has moved or removed the Editorial Team page, YDJ will review your current configuration and will attempt to recreate it as closely as possible during the upgrade.
 
 ### Rational for YDJ configuration
 
