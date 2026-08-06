@@ -65,6 +65,7 @@ nav = [
 #      ]
 #  },
   { "YDJ" = [
+      "ydj/services-for-journals.md",
       "ydj/what-to-expect-in-ojs-35.md",
       { "OJS for YDJ" = [
           "ydj/ojs-for-ydj.md",
