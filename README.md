@@ -1,5 +1,7 @@
 # dsi.library.yorku.ca
 
+[![Documentation](https://github.com/yorkulibraries/dsi.library.yorku.ca/actions/workflows/docs.yml/badge.svg?branch=main)](https://github.com/yorkulibraries/dsi.library.yorku.ca/actions/workflows/docs.yml)
+
 This site is built with [Zensical](https://zensical.org). The sections below walk through the most common update tasks.
 
 ## How to Update
