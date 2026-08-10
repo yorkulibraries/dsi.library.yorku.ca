@@ -1,5 +1,9 @@
 # YDJ services for journals
 
+!!! info
+
+  **Last updated:** June 2026
+
 This section outlines the division of labour between YDJ and your journal: what you must do, what YDJ must do, what YDJ cannot do for you, and what YDJ does as a complementary, non-core services.
 
 - [The journal's role: what the journal must do](the-journals-role-what-the-journal-must-do)
