@@ -8,38 +8,38 @@
 
 - [Introduction](#introduction)
 
-  - [New journals](#new-journals)
-  - [Established journals](#established-journals)
+	- [New journals](#new-journals)
+	- [Established journals](#established-journals)
   
 - [Public/not-for-profit databases](#publicnot-for-profit-databases)
 
-  - [Scholars Portal Journals](#scholars-portal-journals)
-  - [Directory of Open Access Journals (DOAJ)](#directory-of-open-access-journals-doaj)
-  - [MEDLINE/PubMed](#medlinepubmed)
-  - [Coalition Publica/Érudit](#coalition-publicaérudit)
+	- [Scholars Portal Journals](#scholars-portal-journals)
+	- [Directory of Open Access Journals (DOAJ)](#directory-of-open-access-journals-doaj)
+	- [MEDLINE/PubMed](#medlinepubmed)
+    -[Coalition Publica/Érudit](#coalition-publicaérudit)
   
 - [For-profit databases](#for-profit-databases)
 
-  - [Ulrichsweb](#ulrichsweb)
-  - [Ebsco](#ebsco)
-  - [Clarivate](#clarivate)
-  
-	 - [ProQuest](#proquest)
-	 - [Web of Science/Journal Citation Reports (JCR)](#web-of-sciencejournal-citation-reports-jcr)
+	- [Ulrichsweb](#ulrichsweb)
+	- [Ebsco](#ebsco)
+	- [Clarivate](#clarivate)
+
+  		- [ProQuest](#proquest)
+		- [Web of Science/Journal Citation Reports (JCR)](#web-of-sciencejournal-citation-reports-jcr)
 	 
-  - [Elsevier/Scopus/ScienceDirect](#elsevierscopussciencedirect)
-  - [PsycInfo](#psycinfo)
+	- [Elsevier/Scopus/ScienceDirect](#elsevierscopussciencedirect)
+	- [PsycInfo](#psycinfo)
   
 - [Databases not requiring application](#databases-not-requiring-application)
 
-  - [Google Scholar](#google-scholar)
-  - [Dimensions](#dimensions)
-  - [Altmetric Explorer](#altmetric-explorer)
-  - [OpenAlex](#openalex)
+	- [Google Scholar](#google-scholar)
+	- [Dimensions](#dimensions)
+	- [Altmetric Explorer](#altmetric-explorer)
+	- [OpenAlex](#openalex)
   
 - [Additional reading](#additional-reading)
 
-  - [PKP documentation](#pkp-documentation)
+	- [PKP documentation](#pkp-documentation)
 
 ## Introduction
 
