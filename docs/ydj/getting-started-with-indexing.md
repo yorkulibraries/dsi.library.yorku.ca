@@ -16,7 +16,7 @@
 	- [Scholars Portal Journals](#scholars-portal-journals)
 	- [Directory of Open Access Journals (DOAJ)](#directory-of-open-access-journals-doaj)
 	- [MEDLINE/PubMed](#medlinepubmed)
-    -[Coalition Publica/Érudit](#coalition-publicaérudit)
+	- [Coalition Publica/Érudit](#coalition-publicaerudit)
   
 - [For-profit databases](#for-profit-databases)
 

@@ -26,4 +26,5 @@ This guide has been created by Digital Publishing Librarian Tomasz Mrozewski. An
 - [DOIs](dois)
 - [Metrics](metrics)
 - [Accessibility](accessibility)
+- [Getting started with indexing](getting-started-with-indexing.md)
 - [Configuring subscription settings](configuring-subscription-settings)
