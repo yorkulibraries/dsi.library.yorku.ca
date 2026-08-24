@@ -287,35 +287,6 @@ If you discover third-party plugins you wish to use, [contact YDJ](ydj-contact.m
 
 YDJ cannot support the use or maintenance of third-party plugins. In other words: if the plugin doesn’t work with the current version of OJS, or if the plugin doesn’t work as expected, or if you can’t figure out to use the plugin, we will be unable to support you. Additionally, if YDJ discovers that there is a major security concern with the plugin, we may have to unilaterally uninstall it.
 
-## Web and readership statistics
-
-!!! info
-
-    **Last updated:** July 8, 2026 for OJS 3.5
-
-This chapter covers two types of statistics:
-
-* [Article and editorial statistics](#article-and-editorial-stats), which are collected and accessed through OJS itself, and
-* [Web analytics](#web-analytics), which are collected by third-party applications.
-
-### Article and editorial stats
-
-OJS offers robust statistical reporting tools for article views and downloads and for editorial activity as of version 3.2.
-
-You can [learn about OJS’ built-in statistics reports](https://docs.pkp.sfu.ca/learning-ojs/en/statistics) in the _Learning OJS 3_ guide.
-
-### Web analytics
-
-You should know that analytics packages only provide statistics as of the date of their implementation.
-
-#### Matomo
-
-YUL has implemented a locally-hosted instance of [Matomo](https://matomo.org/) for all journals as an alternative to Google Analytics. As of late 2023, Matomo has been configured for all YDJ publications. YDJ does not currently have standardized reporting procedures: if you would like to request stats from Matomo, please [contact YDJ](ydj-contact.md).
-
-#### Google Analytics
-
-Some YDJ journals created in OJS prior to 2019 used [Google Analytics Universal Analytics](https://analytics.google.com), which was shut down in 2024. YDJ no longer maintains Google Analytics accounts for journals and has replaced the service with Matomo.
-
 ## Changing user roles
 
 !!! info
