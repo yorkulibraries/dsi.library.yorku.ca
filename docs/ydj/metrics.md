@@ -2,7 +2,7 @@
 
 This section discusses the various metrics available to you as a YDJ journal.
 
-!!! warning "\"How many readers does my journal have?\""
+!!! warning "&quot;How many readers does my journal have?&quot;"
 
     [Readership statistics found in OJS](#ojs-article-and-editorial-stats) appear to be much higher than [web analytics traffic recorded by Matomo](#matomo): see [this thread in the PKP Forums](https://forum.pkp.sfu.ca/t/understanding-the-disparity-between-counter-stats-and-web-analytics-ojs-3-3/98369) for a brief but inconclusive discussion of this disparity.
 
