@@ -68,6 +68,12 @@ nav = [
       "ydj/index.md",
       "ydj/services-for-journals.md",
       "ydj/what-to-expect-in-ojs-35.md",
+      { "Getting on board with OJS" = [
+         "ydj/getting-on-board-with-ojs-35.md",
+         "ydj/learning-to-use-ojs-35.md",
+         "ydj/ojs-documentation-and-help.md",
+         "ydj/account-setup.md",
+         "ydj/journal-setup.md"]},
       { "OJS for YDJ" = [
           "ydj/ojs-for-ydj.md",
           "ydj/ojs-site.md",
