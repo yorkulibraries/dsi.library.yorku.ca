@@ -345,6 +345,37 @@ To add a new section to your journal:
 
 The new section will now be available during the appropriate submission workflows.
 
+## Understanding and using Categories
+
+!!! info
+
+    **Last updated**: May 2, 2025 for OJS 3.3 and 3.4
+
+The Category feature is best used as a browsing tool for readers that is distinct from Issues and Sections. It should be used in conjunction with the Browse Block or with navigation menu items.
+
+When you create a Category, you do two things:
+
+1.  You create a page for that Category, which includes a list of all articles assigned to it, as well as an optional description and cover image. (Example: [Category browse page](https://jat.journals.yorku.ca/index.php/default/catalog/category/parent1))
+2.  You add a field to the submission’s metadata page, which links to the Category page. (Example: [submission metadata page](https://jat.journals.yorku.ca/index.php/default/article/view/97))
+
+You can also nest Categories one level using Parent Category. Both the Parent Category and the nested Category will receive their own pages. The Parent Category page will link both to the submissions assigned to it and to the pages for the nested Categories.
+
+Unlike sections, Categories do not appear in an issue’s table of contents and cannot be used to direct submissions to a particular editor. However, Categories can be used to make related content from across multiple issues in the same place. If you wish to make your journal content browsable by section, please request that the Digital Publishing Librarian install the Browse By Section Plugin.
+
+### Creating Categories
+
+Create and edit Categories at **Journal Settings > Categories**.
+
+### Assigning submissions to Categories
+
+If your journal has created any Categories, they will appear in the submission process for authors as well as in the QuickSubmit form. You can also edit the Category assignment in a submission’s **Publication > Issue** tab.
+
+### Making Categories discoverable
+
+Categories should be used in conjunction with the Browse Block, which can be activated at **Website Settings > Appearance > Setup > Sidebar**. This sidebar block will automatically update as Categories are added, removed, or nested.
+
+You may also also wish to manually create [Navigation Menu Items](ojs-site#navigation-menus) for your Categories. However, these will not automatically update as Categories are added, removed, or nested.
+
 ## Enabling and disabling notifications
 
 !!! info
