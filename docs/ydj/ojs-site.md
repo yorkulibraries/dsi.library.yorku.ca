@@ -394,3 +394,18 @@ To turn notifications on or off:
 6.  Click **Save**.
 
 At present, it does not appear to be possible for journal managers or editors to enable or disable notifications on behalf of users.
+
+## Helping users who cannot access their accounts
+
+!!! info
+
+    **Last updated:** August 26, 2026 for OJS 3.5.
+
+Users often ask for help accessing their account. This is especially true for users who log in only rarely (such as authors and reviewers) who either forget their passwords or forget which email account they used. Note: it not possible for Journal Editors, Journal Managers, or YDJ to access or reset account passwords.
+
+If you as Journal Editor or Journal Manager receive such a request, you can resolve it yourself in most cases. _Do not_ contact YDJ right away, and follow these steps instead:
+
+1. Direct the user to use the "Forgot your password?" feature on the login page. This requires that they know which email address they used to create their account.
+2. If they cannot recall which email address they used to create their account, you (the editor) should go into **Users & Roles** > **Users** to determine which address they used.
+
+You should only [contact YDJ](ydj-contact.md) if these steps do not give the user access to their account.
