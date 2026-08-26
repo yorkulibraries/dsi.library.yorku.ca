@@ -6,11 +6,11 @@
 
 This section outlines the division of labour between YDJ and your journal: what you must do, what YDJ must do, what YDJ cannot do for you, and what YDJ does as a complementary, non-core services.
 
-- [The journal's role: what the journal must do](the-journals-role-what-the-journal-must-do)
-- [The journals' role: additional responsibilities](the-journals-role-additional-responsibilities)
-- [YDJ's role: what YDJ must do for the journal](ydjs-role-what-ydj-must-do-for-the-journal)
-- [YDJ's role: additional services](ydjs-role-additional-services)
-- [Appendix A: Role of sponsoring bodies for student journals](appendix-a-role-of-sponsoring-bodies-for-student-journals)
+- [The journal's role: what the journal must do](#the-journals-role-what-the-journal-must-do)
+- [The journals' role: additional responsibilities](#the-journals-role-additional-responsibilities)
+- [YDJ's role: what YDJ must do for the journal](#ydjs-role-what-ydj-must-do-for-the-journal)
+- [YDJ's role: additional services](#ydjs-role-additional-services)
+- [Appendix A: Role of sponsoring bodies for student journals](#appendix-a-role-of-sponsoring-bodies-for-student-journals)
 
 ## The journal's role: what the journal _must_ do
 
@@ -60,7 +60,7 @@ It is the journal's responsibility to keep YDJ updated with current contact info
 
 Journal editors should [contact YDJ](ydj-contact.md) to notify us of any changes to contact information and lead editorial responsibilities.
 
-Failure to keep updated contact information on file with YDJ may result in decisions being made around software and service provision without journal consultation and input, which may in turn hinder the journal's production. Failure to respond to direct email queries may result in the journal being declared lapsed and having editorial permissions removed from OJS until contact is re-established with YDJ (see "[Provide ongoing stewardship for lapsed and discontinued journals](#_Provide_ongoing_stewardship)" below).
+Failure to keep updated contact information on file with YDJ may result in decisions being made around software and service provision without journal consultation and input, which may in turn hinder the journal's production. Failure to respond to direct email queries may result in the journal being declared lapsed and having editorial permissions removed from OJS until contact is re-established with YDJ (see "[Provide ongoing stewardship for lapsed and discontinued journals](#provide-ongoing-stewardship-for-lapsed-and-discontinued-journals)" below).
 
 ## The journals' role: additional responsibilities
 
