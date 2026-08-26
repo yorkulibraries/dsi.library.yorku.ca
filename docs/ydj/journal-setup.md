@@ -40,7 +40,7 @@ Finally, a suggestion: the [DOAJ application form](https://doaj.org/account/logi
 
     YDJ has a [custom implementation](what-to-expect-in-ojs-35#alternative-implementation-to-editorial-masthead-for-ydj) for an Editorial Team page as an alternative to the default Editorial Masthead page in OJS 3.5, which draws on data entered in the _Editorial History_ field. Editors experienced with prior versions of OJS 3 will find that this looks and behaves like the pre-existing Editorial Team page.
 
-* ==_Journal Summary_==: less important than _About the Journal_ (below). Can be made to appear on the homepage ([see OJS homepage layout (Default template), #8](ojs-site#ojs-homepage-layout-default-theme)) – but keep it short!  
+* ==_Journal Summary_==: less important than _About the Journal_ (below). Can be made to appear on the homepage ([see OJS homepage layout (Default template), #8](ojs-site#8-journal-summary)) – but keep it short!  
 * ==_About the Journal_==: appears on the _About the Journal_ page on the front end. YDJ advises including more information about the journal’s scope, mandate, history, and operations than not – this is also important for transparency’s sake. You may also wish to indicate the date of last update at the bottom of the blurb.  
 
 ### 1.2 Contact  
@@ -64,7 +64,7 @@ See _Learning OJS 3.3_ for more about [sections](https://docs.pkp.sfu.ca/learnin
 
 ### 1.4 Categories  
 
-These may not be immediately useful. Learn more at [Understanding and using Categories](submissions#understanding-and-using-categories).  
+These may not be immediately useful. Learn more at [Understanding and using Categories](ojs-site#understanding-and-using-categories).  
 
 ## 2. Website Settings
 
@@ -77,7 +77,7 @@ These may not be immediately useful. Learn more at [Understanding and using Cate
 
 #### 2.1.2 Setup  
 
-* ==_Logo_ and _Homepage Image_==: the logo will be dynamically sized with the site. If you have a large or highly detailed logo, I’d recommend using the Homepage Image instead. You can use both, however.  See ([see OJS homepage layout (Default template), #3 and #6](ojs-site#ojs-homepage-layout-default-theme)) to learn more. ==Be sure to use alternative text to describe the images, for accessibility purposes==.
+* ==_Logo_ and _Homepage Image_==: the logo will be dynamically sized with the site. If you have a large or highly detailed logo, I’d recommend using the Homepage Image instead. You can use both, however.  See (see OJS homepage layout (Default template), [#3](ojs-site#3-title-or-logo) and [#6](ojs-site#6-homepage-image)) to learn more. ==Be sure to use alternative text to describe the images, for accessibility purposes==.
 * _Page footer_: this can be a great place to include persistent information across the whole journal site. You might want to repeat journal title, publisher info, and ISSN as well as sponsors, mottos, or land acknowledgments.  
 * _Sidebar_: toggles which block appear in the right sidebar. Language Toggle Block is an important one if your journal is multilingual (if so, it should activate automatically). This is also where you toggle Custom Blocks (see [Sidebar blocks](ojs-site#sidebar-blocks)).  
 
@@ -148,12 +148,12 @@ You may want to toggle this if you want to prevent users from making submissions
 
 !!! warning
 
-   Toggling _Disable Submissions_ will add text to the Submissions page that says, "This journal is not accepting submissions at this time." If your journal has disabled submissions in OJS because you prefer to use an alternative submission pipeline, this may convey the wrong message. [Contact YDJ](ydj-contact.md) to discuss alternatives. 
+    Toggling _Disable Submissions_ will add text to the Submissions page that says, "This journal is not accepting submissions at this time." If your journal has disabled submissions in OJS because you prefer to use an alternative submission pipeline, this may convey the wrong message. [Contact YDJ](ydj-contact.md) to discuss alternatives. 
 
 #### 3.1.2 Author Guidance
 
 * ==_Author Guidelines_==: very important. This feild appears both on the Submissions page of the front end and on the first page of the submissions workflow. Include all generic guidelines for submissions to all sections here; use the Section Policies (see [1.3](#13-sections), above) for section-specific guidelines.
-* ==_Submission Checklist_: this list appears both on the Submissions page on the front end and on the first page of the submission process.
+* ==_Submission Checklist_==: this list appears both on the Submissions page on the front end and on the first page of the submission process.
 * ==_Copyright Notice_==: EXTREMELY IMPORTANT. This is the basis of your agreement with the authors. See the documentation and help links at the beginning of the document for information about copyright and licensing. This appears during the submission, and it’s where the author agrees to the terms of copyright (e.g., they retain copyright and grant you permission to publish and archive under CC license). It should be related to but distinct from the License terms (see [4.1](#41-license), below)  
 
 #### 3.1.3 Metadata  
