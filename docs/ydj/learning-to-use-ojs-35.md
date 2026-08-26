@@ -2,7 +2,7 @@
 
 !!! info
 
-    **Last updated:** August 24, 2026
+    **Last updated:** August 26, 2026
 
 * [What's new in OJS 3.5](#whats-new-in-ojs-35)
 * [Editor training](#editor-training)
