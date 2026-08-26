@@ -291,3 +291,33 @@ Figure 2: Once published, a link to the external data set will appear next to th
 If your journal has been configured for DOIs, you can easily determine what the DOI will be before you publish it. This way, you can add the DOI to the galley even though it is not possible to view the DOI before publication.
 
 See the chapter on the [structure of DOIs](dois#determining-the-structure-of-your-dois) to determine what a submission's DOI will be and to transform the DOI into a URL. Once you have determined the DOI and transformed it into a URL, you can add the DOI to the galley as a link that will go live once the submission is published.
+
+## Retrieving peer review requests
+
+!!! info
+
+    **Last updated:** August 26, 2026 for OJS 3.5
+
+If a peer reviewer is unable to locate the initial peer review request email or the link to the peer review, there are two ways to get access to the required information:
+
+1. If the reviewer has already created an account, they can log into OJS and access the request through the dashboard.
+2. If the reviewer has not created an account yet, you can retrieve the review request email, copy the details, and manually share it with them.
+
+### Directing a reviewer to access the OJS dashboard
+
+For a reviewer to access their OJS account and peer review requests:
+1. Log into the journal's OJS site
+
+    a. If the user cannot access their account, see [ojs-site#helping-users-who-cannot-access-their-accounts]
+
+2. Once logged in, the first thing they see should be the list of active reviews requiring action; alternatively, they may consult the queues listed under "My Assignments as a Review" in the left-hand menu of the dashboard.
+
+### Retrieving the review request email
+
+To retrieve the contents of the original review request email:
+1. Go to the submission information page for the submission in question
+2. Click **Activity Log** at the top right of the window
+3. Look for the log entry for the original review request. In the _Event_ column, the entry should say something like "An email has been sent: \[JOURNAL ABBREVIATION\] Article Review Request"
+4. Click the blue arrow next to the date
+5. Click **View Email**
+6. Copy the relevant information and email it to the reviewer
