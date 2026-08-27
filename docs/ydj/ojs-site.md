@@ -405,7 +405,7 @@ Users often ask for help accessing their account. This is especially true for us
 
 If you as Journal Editor or Journal Manager receive such a request, you can resolve it yourself in most cases. _Do not_ contact YDJ right away, and follow these steps instead:
 
-1. Direct the user to use the "Forgot your password?" feature on the login page. This requires that they know which email address they used to create their account.
+1. Direct the user to use the *Forgot your password?* feature on the login page. This requires that they know which email address they used to create their account.
 2. If they cannot recall which email address they used to create their account, you (the editor) should go into **Users & Roles** > **Users** to determine which address they used.
 
 You should only [contact YDJ](ydj-contact.md) if these steps do not give the user access to their account.

@@ -306,15 +306,17 @@ If a peer reviewer is unable to locate the initial peer review request email or 
 ### Directing a reviewer to access the OJS dashboard
 
 For a reviewer to access their OJS account and peer review requests:
+
 1. Log into the journal's OJS site
 
-    a. If the user cannot access their account, see [ojs-site#helping-users-who-cannot-access-their-accounts]
+    a. If the user cannot access their account, see (Helping users who cannot access their accounts)[ojs-site#helping-users-who-cannot-access-their-accounts]
 
 2. Once logged in, the first thing they see should be the list of active reviews requiring action; alternatively, they may consult the queues listed under "My Assignments as a Review" in the left-hand menu of the dashboard.
 
 ### Retrieving the review request email
 
 To retrieve the contents of the original review request email:
+
 1. Go to the submission information page for the submission in question
 2. Click **Activity Log** at the top right of the window
 3. Look for the log entry for the original review request. In the _Event_ column, the entry should say something like "An email has been sent: \[JOURNAL ABBREVIATION\] Article Review Request"
