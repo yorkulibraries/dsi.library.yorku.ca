@@ -1,10 +1,9 @@
-# Getting on board with OJS 3.5: A guide for YDJ editors 
-
+# Getting on board with OJS
 !!! info
 
-    **Last updated:** August 24, 2026
-    
-    This guide applies to OJS 3.5. All the time of writing, all new YDJ journals are created in 3.5 and new journals are being upgraded.
+    **Last updated:** August 25, 2026 for OJS 3.5.  All the time of writing, all new YDJ journals are created in 3.5 and new journals are being upgraded.
+
+This guide is designed to help new YDJ editors teach themselves how to use OJS, how to find additional help and documentation for OJS, how to set up their accounts, and how to configure journal settings for the first time or review existing journal settings. This guide is designed both for new editors of existing YDJ journals and for editors of journals new to YDJ.
     
 Created and maintained by Tomasz Mrozewski, Digital Publishing Librarian, York University Libraries. If you have any questions, comments, or feedback please [contact YDJ](ydj-contact.md).  
 

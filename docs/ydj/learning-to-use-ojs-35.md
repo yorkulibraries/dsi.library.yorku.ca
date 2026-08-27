@@ -2,7 +2,7 @@
 
 !!! info
 
-    **Last updated:** August 24, 2026
+    **Last updated:** August 26, 2026
 
 * [What's new in OJS 3.5](#whats-new-in-ojs-35)
 * [Editor training](#editor-training)
@@ -29,7 +29,7 @@ All new editors should follow the free, self-paced PKP School training course [E
 
 Journal managers (including editors in chief) should also follow the course [Setting up a journal in OJS 3.5](https://pkpschool.sfu.ca/courses/setting-up-a-journal-in-ojs-3-5/) – particularly modules 3-12 – or the text-based [Learning OJS 3.5 for Journal Managers](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/) to understand the journal settings and how these interact with the editorial workflow.
 
-!!! ""
+!!! tip
 
     Because YDJ is not implementing the default Editorial Masthead from OJS 3.5, any training materials pertaining to the Editorial Masthead (including Module 4, Unit 2 of Setting up a journal in OJS 3.5) will not by relevant to your operations. See [Alternative implementation to Editorial Masthead for YDJ](what-to-expect-in-ojs-35#alternative-implementation-to-editorial-masthead-for-ydj) for details.
 

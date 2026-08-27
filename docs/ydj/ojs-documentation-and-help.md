@@ -2,11 +2,11 @@
 
 !!! info
 
-    **Last updated:** August 24, 2026
+    **Last updated:** August 26, 2026
     
 * [Official documentation](#official-documentation)
 * [YDJ-specific documentation](#ydj-specific-documentation)
-* [Special topics](special-topics)
+* [Special topics](#special-topics)
 
     * [Accessibility](#accessibility)
     * [Copyright and licensing](#copyright-and-licensing)
@@ -36,6 +36,9 @@
 ### Accessibility  
 
 * [Creating Accessible Content: A Guide for Journal Editors and Authors](https://docs.pkp.sfu.ca/accessible-content/en/) (from PKP Docs). Although not explicitly stated, this guide is geared to the same accessibility requirements cited in the _Accessibility for Ontarians with Disabilities Act_ (AODA).
+* [Accessibility in Ontario](https://www.ontario.ca/page/accessibility-in-ontario). Learning more about your responsibility for creating accessible content under AODA and how to comply with requirements.
+
+    * [How to make websites accessible](https://www.ontario.ca/page/how-make-websites-accessible)
 
 ### Copyright and licensing  
 
@@ -52,7 +55,7 @@
 * [Journal Policy Toolkit for Journals Using OJS](https://zenodo.org/records/15857655) (from University of Alberta Libraries). The UAL toolkit suggests many useful policies that your journal could considering adapting for your purposes. If you have questions about the applicability of these policies for your journal or about how to adapt them, please [contact YDJ](ydj-contact.md). 
 * [Directory of Open Access Journal (DOAJ) documentation](https://doaj.org/). The DOAJ is a directory of high-quality, reputable Open Access journals. Journals must meet its criteria for editorial quality, transparency, and OA practices to be included. As a result, its guidelines and application materials may serve as a useful guide for developing your journal’s policies and online presence. 
 
-    * [Application for](https://doaj.org/account/login?redirected=apply)m (downloadable list of questions available without an account) 
+    * [Application form](https://doaj.org/account/login?redirected=apply) (downloadable list of questions available without an account) 
     * [Guide to applying](https://doaj.org/apply/guide/)
     * [Transparency & best practice guideline ](https://doaj.org/apply/transparency/)
 
