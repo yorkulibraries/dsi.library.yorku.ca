@@ -2,7 +2,7 @@
 icon: lucide/book-open-check
 ---
 
-# How DSI Operates
+# How DSI Operates - HELLO WORLD
 
 ## Research Lifecycle Alignment
 
