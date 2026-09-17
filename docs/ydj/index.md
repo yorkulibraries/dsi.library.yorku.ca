@@ -6,5 +6,6 @@ These pages provide detailed information about the [York Digital Journals (YDJ)]
 
 - [YDJ services for journals](services-for-journals.md)
 - [What to expect in OJS 3.5](what-to-expect-in-ojs-35.md)
+- [Getting on board with OJS for YDJ editors](getting-on-board-with-ojs-35.md)
 - [OJS for YDJ](ojs-for-ydj.md)
 - [YDJ contact](ydj-contact.md)
