@@ -91,7 +91,7 @@ Repeat until you have accepted or dismissed matches for all cells.
 1. Click the **arrow** at the top of the reconciled column
 2. Choose **Edit Columns → Add column based on this column...**
 3. Give the new column a name — a good convention is the original column name plus `_tid`, for example `field_subject_tid`
-4. In the **GREL expression** box, enter:
+4. In the [**GREL expression**](https://openrefine.org/docs/manual/grel) box, enter:
    ```
    cell.recon.match.id
    ```
@@ -101,7 +101,7 @@ Repeat until you have accepted or dismissed matches for all cells.
 
 1. Repeat the steps above
 2. Name the column with a `_label` suffix, for example `field_subject_label`
-3. In the **GREL expression** box, enter:
+3. In the [**GREL expression**](https://openrefine.org/docs/manual/grel) box, enter:
    ```
    cell.recon.match.name
    ```
@@ -119,6 +119,8 @@ Repeat until you have accepted or dismissed matches for all cells.
 ---
 
 ## Notes
+
+For guidance on handling no matches, dismissing candidates, re-reconciling a column, and other common questions, see [Reconciliation Tips & Troubleshooting](tips.md).
 
 - If a cell shows **no match**, the reconciliation service found nothing close enough to suggest. You may want to check the spelling or try reconciling against a different vocabulary type.
 - If multiple candidates appear and none are correct, click the **×** to dismiss and leave the cell unmatched.

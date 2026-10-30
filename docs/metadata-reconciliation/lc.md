@@ -65,11 +65,26 @@ Repeat until you have accepted or dismissed matches for all cells.
 !!! important
     Although reconciled matches appear in your OpenRefine project, OpenRefine is still storing the original values internally. You must explicitly extract the reconciled data into a new column to ensure it is included when you export your project.
 
+### To add a new column containing the label:
+
 1. Click the **arrow** at the top of the reconciled column
 2. Choose **Edit Columns → Add column based on this column...**
-3. Give the new column an appropriate name
-4. In the **GREL expression** box, enter one of the following depending on what you want to capture:
+3. Give the new column an appropriate name — a good convention is the original column name plus a suffix such as `_label`
+4. In the [**GREL expression**](https://openrefine.org/docs/manual/grel) box, enter:
+   ```
+   cell.recon.match.name
+   ```
 5. Click **OK**
+
+### To add a new column containing the URI:
+
+1. Repeat the steps above
+2. Name the column with a suffix such as `_uri`
+3. In the [**GREL expression**](https://openrefine.org/docs/manual/grel) box, enter:
+   ```
+   cell.recon.match.id
+   ```
+4. Click **OK**
 
 ### Useful GREL expressions
 
@@ -86,6 +101,8 @@ Repeat until you have accepted or dismissed matches for all cells.
 ---
 
 ## Notes
+
+For guidance on handling no matches, dismissing candidates, re-reconciling a column, and other common questions, see [Reconciliation Tips & Troubleshooting](tips.md).
 
 - If a cell shows **no match**, the reconciliation service found nothing close enough to suggest. You may want to check the spelling or try reconciling against a different vocabulary type.
 - If multiple candidates appear and none are correct, click the **×** to dismiss and leave the cell unmatched.

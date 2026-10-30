@@ -53,9 +53,11 @@ nav = [
     ]
   },
   { "Metadata Reconciliation" = [
+      "metadata-reconciliation/index.md",
       "metadata-reconciliation/yudl.md",
       "metadata-reconciliation/lc.md",
-      "metadata-reconciliation/geonames.md"
+      "metadata-reconciliation/geonames.md",
+      "metadata-reconciliation/tips.md"
       ]
   },
 
