@@ -1,8 +1,18 @@
 ---
-icon: lucide/book-open-check
+icon: lucide/server
 ---
 
 # Platform Details
+
+## In this page
+
+- [York Digital Journals](#york-digital-journals)
+- [YorkSpace](#yorkspace)
+- [York University Digital Library](#york-university-digital-library)
+- [York University Libraries Wayback Machine](#york-university-libraries-wayback-machine)
+
+!!! note "Scope"
+    This page provides details on the primary platforms DSI develops and maintains. For the full list of platforms and services the department oversees, see [How DSI Operates](/how-dsi-operates/#platforms-and-services). For guidance on which platform fits which type of material, see [What Goes Where](/what-goes-where/).
 
 ## York Digital Journals
 
@@ -12,6 +22,8 @@ York University Libraries provide an electronic journal hosting service for York
 York University uses [Open Journal Systems](https://pkp.sfu.ca/software/ojs/) (OJS), an open source software platform developed by the [Public Knowledge Project](https://pkp.sfu.ca/) which is now in use by over 7,500 journals worldwide.
 
 The YDJ team is happy to work with York community members to create new journals or migrate existing journals to an online environment. The libraries can provide hosting space, training documentation and troubleshooting help with the OJS software, as well as advice on dissemination and exposure.
+
+For detailed guidance on running a journal on YDJ, including account setup and OJS workflows, see the [York Digital Journals documentation](/ydj/). For questions, contact the team at [diginit@yorku.ca](mailto:diginit@yorku.ca).
 
 ## YorkSpace
 
@@ -27,6 +39,8 @@ YorkSpace is developed for the preservation and dissemination of open access sch
 - [Licence Agreement](https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-license/)
 - [Help Resources](https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-help-resources/)
 - [Deposit Form](https://forms.office.com/r/iHbJxcttkU)
+
+For questions, contact the team at [diginit@yorku.ca](mailto:diginit@yorku.ca).
 
 ## York University Digital Library
 
@@ -79,34 +93,36 @@ YUDL is built on [Islandora](https://www.islandora.ca/), an open-source digital 
 
 #### Getting Started
 
-- [Islandora Website](https://www.islandora.ca/)  
+- [Islandora Website](https://www.islandora.ca/)
   Overview of the project and ecosystem.
 
-- [Documentation](https://islandora.github.io/documentation/)  
+- [Documentation](https://islandora.github.io/documentation/)
   Official technical documentation for installation, configuration, and development.
 
 ---
 
 #### Community and Support
 
-- [Slack](https://join.slack.com/t/islandora/shared_invite/zt-1ac9k1xs5-Hbeit2twqexyJCxZQg9ZBQ)  
+- [Slack](https://join.slack.com/t/islandora/shared_invite/zt-1ac9k1xs5-Hbeit2twqexyJCxZQg9ZBQ)
   Real-time community support and discussion.
 
-- [Google Group](https://groups.google.com/g/islandora)  
+- [Google Group](https://groups.google.com/g/islandora)
   Mailing list for announcements and longer discussions.
 
-- [Community Onboarding](https://docs.google.com/forms/d/e/1FAIpQLSdZ_S9LmS_oRaapVZ6hvverq5hIGz__Pzk3WRn1R4Qdtr0AbQ/viewform)  
+- [Community Onboarding](https://docs.google.com/forms/d/e/1FAIpQLSdZ_S9LmS_oRaapVZ6hvverq5hIGz__Pzk3WRn1R4Qdtr0AbQ/viewform)
   Entry point for joining the community.
 
-- [Roadmap](https://www.islandora.ca/roadmap)  
+- [Roadmap](https://www.islandora.ca/roadmap)
   A roadmap to guide the priorities of the project's development efforts.
 
 ---
 
 #### Governance
 
-- [Islandora Leadership Group (LG)](https://github.com/Islandora/islandora-community/wiki/Leadership-Group-%28LG%29)  
+- [Islandora Leadership Group (LG)](https://github.com/Islandora/islandora-community/wiki/Leadership-Group-%28LG%29)
   York University Libraries are a Partner organization in the Islandora Foundation, and the Leadership Group provides strategic leadership and decision-making.
+
+For questions, contact the team at [diginit@yorku.ca](mailto:diginit@yorku.ca).
 
 ## York University Libraries Wayback Machine
 
@@ -118,6 +134,8 @@ This includes:
 - Select crawls of York University web properties, when resources permit
 
 Archived content is publicly accessible via [wayback.library.yorku.ca](https://wayback.library.yorku.ca/).
+
+For questions, contact the team at [diginit@yorku.ca](mailto:diginit@yorku.ca).
 
 ---
 
@@ -143,7 +161,13 @@ YUL uses a combination of open-source tools and internal scripts to capture and 
 
 #### Capture
 
-- [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler)  
+- [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler)
   Headless browser-based crawler used for capturing modern web content.
-- [YUL Crawl Scripts](https://codeberg.org/YorkUniversityLibraries/web-archiving-cron-scripts)  
+- [YUL Crawl Scripts](https://codeberg.org/YorkUniversityLibraries/web-archiving-cron-scripts)
   Scheduled jobs and automation scripts for running crawls using Browsertrix Crawler.
+
+---
+
+## Contact
+
+For questions or help with any of the platforms described on this page, contact the Digital Scholarship Infrastructure team at [diginit@yorku.ca](mailto:diginit@yorku.ca).
