@@ -74,7 +74,7 @@ If you're not harvested by Scholars Portal Journals or listed in Ulrich's, start
 Then:
 
 1. [DOAJ](#directory-of-open-access-journals-doaj) (open access journals only)
-2. [Coalition Publica](#coalition-publicaérudit) (open access journals in the Humanities and Social Sciences only)
+2. [Coalition Publica](#coalition-publicaerudit) (open access journals in the Humanities and Social Sciences only)
 3. Relevant disciplinary [Ebsco](#ebsco) and [ProQuest](#proquest) journals
 4. [Scopus](#elsevierscopussciencedirect) and [Web of Science](#web-of-sciencejournal-citation-reports-jcr)
 5. [PsycInfo](#psycinfo) and [MEDLINE/PubMed](#medlinepubmed) (if appropriate)
